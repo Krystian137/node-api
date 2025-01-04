@@ -1,5 +1,5 @@
 {
-  "name": "node-api",
+  "name": "api",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -8,11 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Instalacja:\r ```\r npm i\r ```",
   "dependencies": {
     "express": "^4.21.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.2",
     "nodemon": "^3.1.7"
-  }
+  },
+  "keywords": []
 }
